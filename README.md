@@ -1,4 +1,4 @@
-# 2022-tpa-vi-no-grupo-16
+# TP 2022 - Diseño de Sistemas
 
 ![arquitectura](docs/img/arquitectura.png)
 
